@@ -1,0 +1,1 @@
+'Food': 20.33, 'Movies': 60.00, 'Clothes': 255.37, 'Coffee': 47.79
